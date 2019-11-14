@@ -1,5 +1,9 @@
 public class FirstOne {
     public static void main(String[] args) {
+
+        
+        System.out.println("Hi! from Abdumalik");
+
         System.out.println("Hello");
         System.out.println("SEZIM");
 
@@ -13,6 +17,7 @@ public class FirstOne {
 
         
         System.out.println("Hi from Ruslan");
+
 
 
     }
