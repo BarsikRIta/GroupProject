@@ -1,7 +1,8 @@
 public class FirstOne {
     public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("n");
+        
+        System.out.println("Hi! from Abdumalik");
+
 
     }
 }
