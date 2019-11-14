@@ -10,6 +10,8 @@ public class FirstOne {
 
         System.out.println("Hi from Venera");
 
+        System.out.println("Hi from Ruslan");
+
 
     }
 }
