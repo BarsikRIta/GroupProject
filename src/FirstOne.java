@@ -17,7 +17,7 @@ public class FirstOne {
 
         
         System.out.println("Hi from Ruslan");
-        System.out.println("HI ");
+        System.out.println("HI!");
 
 
     }
